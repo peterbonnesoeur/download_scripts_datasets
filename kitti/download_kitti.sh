@@ -15,6 +15,6 @@ unzip data_object_image_3.zip
 rm -rf data_object_image_3.zip
 
 #wget https://s3.eu-central-1.amazonaws.com/avg-kitti/data_object_velodyne.zip
-#unzip data_object_object_velodyne.zip
-#rm -rf data_object_object_velodyne.zip
+#unzip data_object_velodyne.zip
+#rm -rf data_object_velodyne.zip
 
